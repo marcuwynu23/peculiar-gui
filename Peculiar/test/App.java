@@ -1,7 +1,7 @@
 
 
-import com.peculiar.app.AppAuthForm;
-import com.peculiar.app.SetMVCApp;
+import com.github.peculiar.app.AppAuthForm;
+import com.github.peculiar.app.SetMVCApp;
 import java.util.ArrayList;
 
 

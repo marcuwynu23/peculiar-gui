@@ -1,7 +1,7 @@
 package TestTools;
 
-import com.peculiar.tool.FileNameGenerator;
-import com.peculiar.tool.FileSerializer;
+import com.github.peculiar.tool.FileNameGenerator;
+import com.github.peculiar.tool.FileSerializer;
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.logging.Level;
