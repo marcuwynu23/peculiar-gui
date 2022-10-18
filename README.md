@@ -1,5 +1,5 @@
 # peculiar-gui
-Java GUI Library for rapid application development
+Java GUI Library for Simple and Fast Java GUI Application Development
 
 
 ## Contributing
